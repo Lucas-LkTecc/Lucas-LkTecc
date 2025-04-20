@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Lucas Ruan and I'm a Inspetor de qualidade from 4 anos e estou em transição de carreira</p>
+<p align="left">My name is Lucas Ruan and I'm a Quality Inspector for 4 years and I'm in career transition</p>
 
 ###
 
