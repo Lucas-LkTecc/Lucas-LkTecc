@@ -1,36 +1,38 @@
+<h3 align="center">
+  FullStack Developer
+</h3>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align='center'>
 
-###
-
-<p align="left">My name is Lucas Ruan and I'm a Quality Inspector for 4 years and I'm in career transition</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning sobre JavaScript<br>🎯 Goals: Me tornar um Desenvolvedor FullStack<br>🎲 Fun fact: Tenho 28 anos e adoro Técnologia.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+<div align="center">  
+  <a href="https://github.com/Lucas-LkTecc/Lucas-LkTecc">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-LkTecc&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LkTecc&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
 
-###
+</div>
+
+<img width="100%" height="8px"/>
+
+<div><br />
+
+<p><strong>Sobre mim</strong></p>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é Lucas Ruan, sou Desenvolvedor FullStack e estou cursando Engenharia de Software <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar Engenheiro de Software <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minha Stack principal é Java com React.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas e compartilhar minha história. <br />
+
+## &nbsp;Minhas Stacks
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,tailwind,git,github,figma&theme=dark" />
+
+#
+
+  <p><strong>Entre em contato comigo</strong></p>
+
+<div align="left">
+  <a href="www.linkedin.com/in/lucas-nascimento-592ab218a" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
