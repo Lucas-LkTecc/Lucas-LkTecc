@@ -2,20 +2,6 @@
   FullStack Developer
 </h3>
 
-<div align='center'>
-
-  <div align="center">  
-    <a href="https://github.com/Lucas-LkTecc/Lucas-LkTecc">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-  LkTecc&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LkTecc&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-  </div>
-
-</div>
-
-<img width="100%" height="8px"/>
-
 <div><br />
 
 <p><strong>Sobre mim</strong></p>
