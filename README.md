@@ -1,5 +1,5 @@
 <h3 align="center">
-  FullStack Developer
+  Computer Software Engineering
 </h3>
 
 <div><br />
